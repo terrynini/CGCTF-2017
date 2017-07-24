@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Baby_Assembly.cpp
+c:\users\terrykitsune\desktop\baby_assembly\baby_assembly\baby_assembly.cpp(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+  Baby_Assembly.vcxproj -> C:\Users\terrykitsune\Desktop\Baby_Assembly\Debug\Baby_Assembly.exe
+  Baby_Assembly.vcxproj -> C:\Users\terrykitsune\Desktop\Baby_Assembly\Debug\Baby_Assembly.pdb (Partial PDB)
